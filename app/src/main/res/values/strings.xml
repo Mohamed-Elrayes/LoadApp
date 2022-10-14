@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Load App</string>
+    <string name="app_description">Download files from Internet</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
+    <string name="notification_description">The Project 3 repository is downloaded</string>
+    <string name="notification_button">See changes</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!--    CustomView Button   -->
+    <string name="button_download">Download </string>
+    <string name="button_downloading">Downloading </string>
+
+    <!--    Content Main    -->
+    <string name="glide_radioButton_text">Glide - Image Loading Library by BumpTech</string>
+    <string name="udacity_radioButton_text">LoadApp - Current repository by Udacity</string>
+    <string name="retrofit_radioButton_text">Retrofit - Type-safe HTTP client for Android and Java by Square, Inc</string>
+    <string name="toast_select_repo">You must select one of the repos above before clicking to download</string>
+    <string name="error_select_repo">An unknown error has occurred. Try again!</string>
+
+    <!--    Content Detail  -->
+    <string name="download_status">Download Status</string>
+    <string name="file_name">File Name:</string>
+    <string name="status">Status:</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="finished_download">Your download has finished.</string>
+
+    <!--    Accessibility   -->
+    <string name="download_icon">Download icon</string>
+    <string name="file_icon">File icon</string>
+    <string name="button_ok">OK</string>
+    <string name="select_a_repository_to_download">Select a repository to download:</string>
+</resources>
